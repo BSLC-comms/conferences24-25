@@ -10,7 +10,7 @@ Key msgs to share / proposed titles
 - medical conf: Embrace data science innovations in clinical development
 
 Draft abstracts:
-- stat conf [link]
-- medical conf [link]
+- stat conf [link](https://github.com/BSLC-comms/conferences24-25/blob/main/stat_conf_draft_abstract.md)
+- medical conf [link](https://github.com/BSLC-comms/conferences24-25/blob/main/nonstat_conf_draft_abstract.md)
 
 Outreach

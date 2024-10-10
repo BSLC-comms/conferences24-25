@@ -1,7 +1,7 @@
 # conferences24-25
 
 Curate list of conferences
-- stat conf [link]
+- stat conf [link](https://github.com/orgs/BSLC-comms/projects/1/views/1?visibleFields=%5B%22Title%22%2C139523384%2C%22Assignees%22%2C%22Status%22%2C139523281%5D)
 - medical conf [link]
 
 Key msgs to share / proposed titles

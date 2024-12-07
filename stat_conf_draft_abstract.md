@@ -1,5 +1,5 @@
 
-Title: Stat Leadership at Every Level: Embracing the Trends of Innovation
+Title: Statistics Leadership at Every Level: Embracing the Trends of Innovation
 
 Abstract:
 
@@ -13,4 +13,6 @@ We will explore what embracing these trends means for professionals at various s
 - Senior Statisticians: Techniques for overseeing multiple projects that blend established methods with innovative approaches.
 - People Managers: Guidance on leading teams through change, fostering a culture of adaptability, and leveraging both established and emerging tools for decision-making.
 
-BSLC is A Collective of Biopharmaceutical Statistics Leaders looking to Improve Patient Outcomes through Strategic Collaboration. https://www.linkedin.com/company/biopharmaceutical-statistics-leadership-consortium-bslc/?viewAsMember=true
+BSLC is a collective of senior biopharmaceutical statistics leaders dedicated to improving patient outcomes through strategic collaboration. Comprised of 16 senior representatives from the statistical and biometrics departments of leading biopharma companies, we serve as a think tank driving initiatives that benefit biopharma statisticians and the broader industry.
+
+https://www.linkedin.com/company/biopharmaceutical-statistics-leadership-consortium-bslc/?viewAsMember=true
